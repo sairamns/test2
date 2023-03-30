@@ -51,26 +51,3 @@ git status
 git add .
 git commit -m "label" prasad
 git push
-
-
-BRANCH
------------
-
-git branch
-git branch branch-name
-git branch
-git checkout branch-name 
-git merge branch-name  (all changes)
-git cherry-pick cid   (only one commit)
-
-git push origin branch-name 
-or
-git push path/of/c-repo branch-name
-git branch -d branch-name  (local)
-git push origin -d branch-name  (central)
-
-git branch 
-git branch -r
-git checkout -b origin/branch
-git checkout -b origin/branch
-git branch
